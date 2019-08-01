@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8d28f4-6482-4b8c-8d83-1943034e6925" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/recipe/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
@@ -66,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="137" column="9" lean-forward="true" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+            <state relative-caret-position="246">
+              <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -146,8 +144,8 @@
         <option value="$PROJECT_DIR$/app/recipe/urls.py" />
         <option value="$PROJECT_DIR$/app/core/tests/test_models.py" />
         <option value="$PROJECT_DIR$/app/recipe/views.py" />
-        <option value="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" />
         <option value="$PROJECT_DIR$/app/recipe/serializers.py" />
+        <option value="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" />
       </list>
     </option>
   </component>
@@ -302,12 +300,12 @@
       <workItem from="1562667760644" duration="755000" />
       <workItem from="1563221590726" duration="27940000" />
       <workItem from="1563547437454" duration="13327000" />
-      <workItem from="1563812743091" duration="64195000" />
+      <workItem from="1563812743091" duration="66330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131540000" />
+    <option name="totallyTimeSpent" value="133675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -608,16 +606,6 @@
     <entry file="file://$PROJECT_DIR$/app/recipe/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="137" column="9" lean-forward="true" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/recipe/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -634,6 +622,16 @@
           <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
